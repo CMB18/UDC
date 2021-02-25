@@ -1,0 +1,25 @@
+* {
+    font-family: monospace;
+    text-transform: capitalize;
+}
+body {
+    background-color: #fcf8e8;
+}
+hr {
+ background-color: #fcf8e8; 
+ width: 5%;
+ color: #ecb390; 
+ border-style: none;
+ border-top: 8px dotted #d4e2d4;
+}
+img {
+    border-radius: 50%;
+    height:250px;
+}
+h3 {
+    color: #ecb390;
+}
+h1
+{
+    color: #df7861;
+}
